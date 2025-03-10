@@ -1,15 +1,17 @@
 ## ¡Hola! Soy Cristina 👋
 
 
-<h3>🌟 Desarrolladora web junior con pasión por crear experiencias digitales únicas.</h3>
-<p>💻 Mis proyectos personales demuestran mi capacidad para transformar diseños en sitios web responsivos y funcionales.</p>
-<p>✨ Me encanta transformar ideas en realidades impactantes mientras sigo aprendiendo y evolucionando en este emocionante camino.</p>
+<h3>🌟 Desarrolladora Web Junior: Aprendiendo React y Next.js con Pasión.</h3>
+<p>💻 Tengo una base sólida en HTML, CSS y JavaScript. Ahora, estoy explorando con entusiasmo el mundo de React y Next.js, con el objetivo de crear aplicaciones web modernas.</p>
+<p>🎯 Mi meta es crecer como desarrolladora Full-Stack, escribiendo código claro, funcional y eficiente. Busco oportunidades para aprender y contribuir.</p>
 <p>✨ Domino las últimas tendencias en diseño web, como CSS Grid y Flexbox para crear diseños responsivos y flexibles. Me interesa optimizar mis diseños para diferentes dispositivos y navegadores, garantizando una experiencia de usuario consistente.</p>
-<p>✨ Actualmente estoy profundizando en los principios de UX/UI design para crear interfaces intuitivas y agradables a la vista.</p>
-<h3>🤝 Si necesitas una web o quieres colaborar, no dudes en contactarme! ¡Estoy abierta a nuevas oportunidades!</h3>
-<p>💌 hola@cristinaroig.com</p>
-<p>🌐 Portfolio: www.cristinaroig.com</p>
+<p>✨ Actualmente, estoy aprendiendo los fundamentos de React: componentes, props y estado. Mi siguiente paso será profundizar en Next.js para desarrollar aplicaciones de alto rendimiento.</p>
+<p>✨ Me interesa aprender las mejores prácticas de desarrollo web, incluyendo la optimización, la accesibilidad y la creación de código mantenible.</p>
+<h3>🤝 ¡Conectemos! Busco oportunidades para aprender y colaborar.</h3>
+<p>💌 crisroigama@gmail.com</p>
+<p>🌐 https://crisroigama.github.io/portfolio/</p>
 <p>💼 linkedin.com/in/cristina-roig-amade</p>
 <p>🛠️ Tecnologías: HTML, CSS, JavaScript</p>
+<p>🛠️ Aprendiendo: React, Next.js</p>
 
 
